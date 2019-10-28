@@ -1,0 +1,7 @@
+# Properties of our trading strategy
+
+portfolio.file=config/test.portfolio.te
+portfolio.threshold=10000
+
+data.source=yahoo
+data.symbol_list=config/test.stock_sym.te
