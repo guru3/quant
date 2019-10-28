@@ -1,6 +1,9 @@
 ### Trading Engine
 
-Following are the components of the trading engine :
+***What is the aim behind this trading engine ?***<br>
+For a given list of stocks we are interested in, we try to figure out profitable strategies. We also add an option to backtest our strategies on past history data. Idea will be figure out strategies on all past data ( till 2018 end ) and calculate the pnl on data since then.
+
+***Following are the components of the trading engine :***
 
 - [ ] stock_sym.te ( list of preferred stock symbols )
 - [ ] trading_engine.py ( initializes the trading engine )
